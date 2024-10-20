@@ -182,7 +182,7 @@ const styles = StyleSheet.create({
   },
   buttonContainer: {
     position: 'absolute',
-    bottom: 130, // Ajustando a posição para ficar acima do Indicator
+    bottom: 130,
     flexDirection: 'row',
     justifyContent: 'space-around',
     width: '100%',
